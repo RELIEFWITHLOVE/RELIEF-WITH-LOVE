@@ -416,4 +416,8 @@ footer {
     text-align: center;
     width: 100%;
   }
+}.logo img {
+  height: 58px;
+  width: auto;
+  display: block;
 }
